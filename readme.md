@@ -12,3 +12,4 @@ Windows系统运行exe文件，将自动在同级目录创建配置文件。用�
 	*1 仅1维可选 如{"name":"Yanlongli","domain":{"www":"www.yanlongli.com","blog":"blog.yanlongli.com"}}
 	name字段是一级可选，domain有子集不可筛选
 	*2 筛选条件为 并 （AND） ，并且必须有值，为空则无效，意味着不进行任何筛选。（这是一个BUG，不想改了）
+![](https://i.imgur.com/zQOmyI4.png)
